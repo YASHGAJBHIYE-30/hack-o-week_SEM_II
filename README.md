@@ -17,7 +17,7 @@
 ---
 
 ## 🟦 Week 1 — Personal Portfolio
-🔗 https://enter-wink-59571497.figma.site/  
+🔗https://insert-willow-91527129.figma.site/  
 
 💡 A personal website to showcase projects and contact details  
 ✨ Focus: UI design & personal branding  
